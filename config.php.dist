@@ -1,0 +1,8 @@
+<?php
+
+return [
+    'gitlab_url' => 'https://gitlab.com',
+    'access_token' => 'your_access_token_here',
+    'default_branch' => 'master',
+    'internal_namespaces' => ['my-company'],
+];
