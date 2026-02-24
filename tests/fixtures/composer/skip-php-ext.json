@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php": "^8.2",
+        "ext-curl": "*",
+        "vendor/package": "^1.0"
+    },
+    "require-dev": {}
+}

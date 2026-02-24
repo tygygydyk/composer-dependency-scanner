@@ -1,0 +1,7 @@
+[
+    {
+        "id": 1,
+        "name_with_namespace": "a/b",
+        "default_branch": "main"
+    }
+]
