@@ -1,0 +1,9 @@
+{
+    "packages": [
+        {
+            "name": "symfony/console",
+            "version": "6.0.0"
+        }
+    ],
+    "packages-dev": []
+}

@@ -1,0 +1,13 @@
+{
+    "packages": [
+        {
+            "name": "symfony/console",
+            "version": "6.0.1"
+        },
+        {
+            "name": "phpunit/phpunit",
+            "version": "10.0.1"
+        }
+    ],
+    "packages-dev": []
+}

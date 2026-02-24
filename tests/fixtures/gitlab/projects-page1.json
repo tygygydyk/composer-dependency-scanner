@@ -1,0 +1,7 @@
+[
+    {
+        "id": 42,
+        "name_with_namespace": "group/proj",
+        "default_branch": "main"
+    }
+]
